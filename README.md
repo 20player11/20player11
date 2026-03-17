@@ -14,3 +14,4 @@ I usually work solo but I appriciate any Contributions (more about contributions
 
 ## **🌟 Featured Projects**
 
+[Nora AI](https://github.com/20player11/Nora_AI_Agent)
