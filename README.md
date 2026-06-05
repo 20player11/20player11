@@ -37,8 +37,8 @@ I usually work solo but I appreciate contributions — PRs and ideas are always 
 
 ## 📊 GitHub stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=20player11&show_icons=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=20player11&layout=compact&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=20player11&theme=radical)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=20player11&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=20player11&theme=radical&hide_border=true)
 
 ---
