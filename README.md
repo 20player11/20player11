@@ -47,7 +47,7 @@ I usually work solo but I appreciate contributions — PRs and ideas are always 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40o_main__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/o_main__)
 ![Email](https://img.shields.io/badge/Email-info.20player11%40seznam.cz-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
+![Web](20player11.is-great.net)
 ---
 
 <div align="center">
